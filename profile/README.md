@@ -38,7 +38,6 @@ To create high-quality, accessible software that empowers developers and users w
 - ✨ **Quality**: Writing clean, maintainable, and efficient code
 - 🔓 **Openness**: Transparent development processes
 - 🎓 **Education**: Helping others learn and grow
-- 🌈 **Diversity**: Welcoming contributors from all backgrounds
 
 ## 🤝 Get Involved
 
