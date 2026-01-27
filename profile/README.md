@@ -78,6 +78,4 @@ We are committed to providing a welcoming and inclusive environment for everyone
 
 *Thank you for visiting our organization! We look forward to collaborating with you.*
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)](https://github.com/Adesa-Technologies
-
 </div>
