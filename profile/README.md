@@ -4,8 +4,8 @@
 
 ### *Where Innovation Meets Excellence*
 
-[![GitHub followers](https://img.shields.io/github/followers/Skulldorom-Org?style=social)](https://github.com/Skulldorom-Org)
-[![GitHub stars](https://img.shields.io/github/stars/Skulldorom-Org?style=social)](https://github.com/Skulldorom-Org)
+[![GitHub followers](https://img.shields.io/github/followers/Adesa-Technologies?style=social)](https://github.com/Adesa-Technologies)
+[![GitHub stars](https://img.shields.io/github/stars/Adesa-Technologies?style=social)](https://github.com/Adesa-Technologies)
 
 ---
 
@@ -13,7 +13,7 @@
 
 ## 🌟 About Us
 
-Welcome to **Skulldorom-Org**! We are a passionate community of developers, creators, and innovators committed to building exceptional open-source projects and fostering collaborative development.
+Welcome to **Adesa-Technologies**! We are a passionate community of developers, creators, and innovators committed to building exceptional open-source projects and fostering collaborative development.
 
 Our organization focuses on:
 
@@ -51,7 +51,7 @@ We love contributions from the community! Here's how you can get involved:
 
 ## 📫 Connect With Us
 
-- 🐙 **GitHub**: [@Skulldorom-Org](https://github.com/Skulldorom-Org)
+- 🐙 **GitHub**: [@Adesa-Technologies](https://github.com/Adesa-Technologies)
 - 💬 **Discussions**: Join conversations in our repository discussions
 - 📧 **Issues**: Open an issue in any of our repositories
 
@@ -74,10 +74,10 @@ We are committed to providing a welcoming and inclusive environment for everyone
 
 <div align="center">
 
-### 💀 Built with passion by the Skulldorom-Org community 💀
+### Built with passion by the Adesa-Technologies community
 
 *Thank you for visiting our organization! We look forward to collaborating with you.*
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)](https://github.com/Skulldorom-Org)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)](https://github.com/Adesa-Technologies
 
 </div>
