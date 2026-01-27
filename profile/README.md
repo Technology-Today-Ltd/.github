@@ -53,7 +53,7 @@ We love contributions from the community! Here's how you can get involved:
 ## 📫 Connect With Us
 
 - 🐙 **GitHub**: [@Skulldorom-Org](https://github.com/Skulldorom-Org)
-- 💼 **Discussions**: Check out our [GitHub Discussions](https://github.com/orgs/Skulldorom-Org/discussions)
+- 💬 **Discussions**: Join conversations in our repository discussions
 - 📧 **Issues**: Open an issue in any of our repositories
 
 ## 🌱 Community Guidelines
@@ -63,7 +63,7 @@ We are committed to providing a welcoming and inclusive environment for everyone
 - Be respectful and considerate
 - Provide constructive feedback
 - Help others learn and grow
-- Follow our Code of Conduct
+- Embrace diversity and inclusion
 
 ## 📊 Stats & Activity
 
