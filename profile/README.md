@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to Adesa Technologies
+# Welcome to Technology Today Ltd
 
 ### *Where Innovation Meets Excellence*
 
@@ -13,8 +13,7 @@
 
 ## 🌟 About Us
 
-Welcome to **Adesa-Technologies**! We are a passionate community of developers, creators, and innovators committed to building exceptional open-source projects and fostering collaborative development.
-
+Welcome to **Technology Today Ltd**!
 Our organization focuses on:
 
 - 🚀 **Innovation**: Pushing boundaries with cutting-edge technology
