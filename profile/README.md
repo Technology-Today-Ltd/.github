@@ -73,7 +73,7 @@ We are committed to providing a welcoming and inclusive environment for everyone
 
 <div align="center">
 
-### Built with passion by the Adesa-Technologies community
+### Built with passion by the Technology Today Ltd community
 
 *Thank you for visiting our organization! We look forward to collaborating with you.*
 
