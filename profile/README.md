@@ -4,8 +4,8 @@
 
 ### *Where Innovation Meets Excellence*
 
-[![GitHub followers](https://img.shields.io/github/followers/Adesa-Technologies?style=social)](https://github.com/Adesa-Technologies)
-[![GitHub stars](https://img.shields.io/github/stars/Adesa-Technologies?style=social)](https://github.com/Adesa-Technologies)
+[![GitHub followers](https://img.shields.io/github/followers/Technology-Today-Ltd?style=social)](https://github.com/Technology-Today-Ltd)
+[![GitHub stars](https://img.shields.io/github/stars/Technology-Today-Ltd?style=social)](https://github.com/Technology-Today-Ltd)
 
 ---
 
