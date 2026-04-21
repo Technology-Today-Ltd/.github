@@ -50,7 +50,7 @@ We love contributions from the community! Here's how you can get involved:
 
 ## 📫 Connect With Us
 
-- 🐙 **GitHub**: [@Adesa-Technologies](https://github.com/Adesa-Technologies)
+- 🐙 **GitHub**: [Technology Today Ltd](https://github.com/Technology-Today-Ltd)
 - 💬 **Discussions**: Join conversations in our repository discussions
 - 📧 **Issues**: Open an issue in any of our repositories
 
